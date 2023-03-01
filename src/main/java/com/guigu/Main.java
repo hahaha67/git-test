@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Hello git444 by master!");
         System.out.println("Hello git444 by hot-fix!");
         System.out.println("push test");
+        System.out.println("push test-SSh");
     }
 }
